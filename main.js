@@ -1,6 +1,3 @@
-// Web hecha con AlexCG Design, si te sirvió la plantilla por favor entra a AlexCG Design
-// esta plantilla es libre para usar, así como otras plantillas más que tenemos en el canal...
-// ->>>> https://www.youtube.com/alexcgdesign <<<<-
 let boton = document.getElementById("icono");
 let enlaces = document.getElementById("enlaces");
 let contador = 0;
